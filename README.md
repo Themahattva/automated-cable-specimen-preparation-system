@@ -179,19 +179,6 @@ If you use this work, design methodology, or dataset in your academic research o
 }
 ```
 
----
-
-## 👥 Authors & Team
-
-* **Shabbir Kataleri** — School of Engineering, Ajeenkya DY Patil University, Pune
-* **Sahil Patil** — School of Engineering, Ajeenkya DY Patil University, Pune
-* **Gauri Thite** — School of Engineering, Ajeenkya DY Patil University, Pune
-* **Deven Mane** — School of Engineering, Ajeenkya DY Patil University, Pune
-* **Raghav Khandelwal** — School of Engineering, Ajeenkya DY Patil University, Pune
-* **Riya More** — School of Engineering, Ajeenkya DY Patil University, Pune
-* **Dr. Sandeep Kulkarni** (Faculty Mentor) — Assistant Professor, School of Engineering, Ajeenkya DY Patil University, Pune
-
----
 
 ## 📄 License
 
