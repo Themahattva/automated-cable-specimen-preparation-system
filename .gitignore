@@ -1,0 +1,23 @@
+# Operating System & IDE Artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Icon?
+Icon\r
+
+# Large Raw Render Animation Frames (700 frames / 1.3 GB)
+# Compiled demonstration video is tracked at Video/0001-0700.mp4
+anim_frames/
+
+# Blender Auto-Backup Files
+*.blend1
+*.blend2
+*.blend@
+
+# Temporary & Log Files
+*.tmp
+*.log
