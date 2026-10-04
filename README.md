@@ -161,25 +161,6 @@ The system produces test specimens compliant with the following Indian Standards
 
 ---
 
-## 📖 Academic Publication & Citation
-
-If you use this work, design methodology, or dataset in your academic research or industrial implementation, please cite the original research paper:
-
-```bibtex
-@article{kataleri2025acsps,
-  title     = {Electromechanical Automation of Cable Specimen Preparation for Compliance Testing: System Design, Validation, And Performance Analysis Under IS 10810 And IS 7098},
-  author    = {Kataleri, Shabbir and Patil, Sahil and Thite, Gauri and Mane, Deven and Khandelwal, Raghav and More, Riya and Kulkarni, Sandeep},
-  journal   = {International Journal of Innovative Research in Technology (IJIRT)},
-  volume    = {12},
-  number    = {11},
-  pages     = {196451--459},
-  year      = {2025},
-  doi       = {10.64643/IJIRTV12I11-196451-459},
-  note      = {First Prize Winner, Smart India Hackathon (SIH) 2025, Hardware Category, Ministry of Consumer Affairs / National Test House}
-}
-```
-
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
