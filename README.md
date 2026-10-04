@@ -4,7 +4,6 @@
 [![Standards](https://img.shields.io/badge/Compliance-IS%2010810%20%7C%20IS%207098-blue?style=for-the-badge)](https://www.bis.gov.in/)
 [![Safety](https://img.shields.io/badge/Safety-IEC%2062061%20Cat%203%20(12ms%20E--STOP)-red?style=for-the-badge)]()
 [![Process Capability](https://img.shields.io/badge/Process%20Capability-Cpk%20%3D%201.71%20(Six%20Sigma)-green?style=for-the-badge)]()
-[![DOI](https://img.shields.io/badge/DOI-10.64643%2FIJIRTV12I11--196451--459-orange?style=for-the-badge)](https://doi.org/10.64643/IJIRTV12I11-196451-459)
 
 > **Electromechanical Automation of Cable Specimen Preparation for Quality Compliance Testing**  
 > *Developed for the Ministry of Consumer Affairs, Government of India / National Test House (Smart India Hackathon 2025 — Hardware Category, Problem Statement ID: 26030).*

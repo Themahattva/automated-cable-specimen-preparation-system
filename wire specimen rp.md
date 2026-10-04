@@ -1,15 +1,5 @@
 ## Electromechanical Automation of Cable Specimen Preparation for Compliance Testing: System Design, Validation, And Performance Analysis Under IS 10810 And IS 7098
 
-Shabbir Kataleri1, Sahil Patil2,Gauri Thite3, Deven Mane4, Raghav Khandelwal5, Riya More6, Dr. Sandeep
-
-Kulkarni7
-
-1,2,3,4,5,6Student School of Engineering, Ajeenkya DY Patil University, Lohegaon, Pune-412105
-
-7Assistant Professor, School of Engineering, Ajeenkya DY Patil University, Lohegaon, Pune-412105
-
-doi.org/10.64643/IJIRTV12I11-196451-459
-
 Abstract—Manual preparation of electrical cable specimens for compliance testing under IS 10810 and IS 7098 is characterised by operator-dependent geometric variability, cycle times of 8–12 minutes per specimen, and high measurement uncertainty—collectively undermining the legal validity of type-test certificates. This paper presents an electromechanical system that automates the complete specimen preparation workflow through a cascaded four-stage sequential pipeline: cable ingestion and geometric straightening, circumferential sheath cutting and sleeve removal, insulation slab flattening and longitudinal slitting, and dumbbell die stamping. A hierarchical dual-microcontroller architecture governs the sequence via an eight-state finite state machine with real-time HMI monitoring and a hardware emergency-stop compliant with IEC 62061 Safety Category 3. Experimental validation on 120 specimens of 16 mm² four-core aluminium cable yields a mean cycle time of 142 ± 4 s (76% reduction versus 600 s manual baseline), gauge-length repeatability σ = 0.08 mm, process capability Cₚₖ = 1.71, full dimensional conformance with IS 10810 Part 7 die specifications, and an E-STOP response of 12 ± 3 ms. The system reduces preparation-induced %GR&R from 73–81% (manual) to approximately 57%, offering a scalable, standards- compliant solution for high-volume cable certification laboratories.
 
 Index Terms—Cable specimen preparation; IS 10810 & IS 7098; Electromechanical automation; Process capability (Cₚₖ); Measurement uncertainty; Dumbbell die stamping; IEC 62061 safety compliance
@@ -23,7 +13,7 @@ Electrical power cables form the foundational transmission infrastructure of mod
 Central to every prescribed test is the preparation of a geometrically conformant specimen. IS 10810 Part 7 specifies dumbbell specimen geometries with gauge lengths of 25 mm (Type 1) and 10 mm (Type 2), held to tolerances of ±0.5 mm. Achieving these tolerances via manual preparation is practically untenable: human motor variability alone introduces gauge- length deviations of 1–3 mm [3], inflating measurement uncertainty beyond permissible limits and compromising the legal validity of type-test certification. Borse and Sawant [3] quantified specimen preparation inconsistency as the dominant uncertainty contributor in mechanical cable testing, reporting %GR&R values of 73–81% attributable to manual preparation.
 
 
-sleeve stripping, slab pressing, and bench-top dumbbell punching—with aggregate cycle times of 8– 12 minutes per specimen. This problem was formally recognised by the Ministry of Consumer Affairs under the Smart India Hackathon (SIH) 2025, Hardware Category, National Test House, wherein the authors’ solution was awarded First Prize at the Grand Finale. This paper presents the design, fabrication, and experimental validation of a fully automated cable specimen preparation system. Principal contributions are: (i) a cascaded four-stage pipeline integrating cable ingestion, circumferential cutting, slab flattening, and dumbbell stamping; (ii) a hierarchical dual- microcontroller control scheme with hardware emergency-stop; (iii) experimental validation demonstrating 76% cycle-time reduction and Cₚₖ = 1.71 across 120 specimens; and (iv) full dimensional compliance with IS 10810 Parts 2, 7, 33 and IS 7098 Parts 1 and 2 [1][2]. [URL 🔗](#page-0)
+sleeve stripping, slab pressing, and bench-top dumbbell punching—with aggregate cycle times of 8– 12 minutes per specimen. This problem was formally recognised by the Ministry of Consumer Affairs under the Smart India Hackathon (SIH) 2025, Hardware Category, National Test House, wherein this automated solution was awarded First Prize at the Grand Finale. This paper presents the design, fabrication, and experimental validation of a fully automated cable specimen preparation system. Principal contributions are: (i) a cascaded four-stage pipeline integrating cable ingestion, circumferential cutting, slab flattening, and dumbbell stamping; (ii) a hierarchical dual- microcontroller control scheme with hardware emergency-stop; (iii) experimental validation demonstrating 76% cycle-time reduction and Cₚₖ = 1.71 across 120 specimens; and (iv) full dimensional compliance with IS 10810 Parts 2, 7, 33 and IS 7098 Parts 1 and 2 [1][2]. [URL 🔗](#page-0)
 
 ## II. BACKGROUND AND LITERATURE REVIEW
 
